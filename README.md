@@ -5,24 +5,21 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davenarchives&label=Profile%20views&color=0e75b6&style=flat" alt="davenarchives" /> </p>
 
 <h3 align="left">Introduction</h3>
-<p align="left">I'm an IT enthusiast and aspiring coder on a journey to explore the vast world of technology. From learning the fundamentals of programming languages to diving into the intricacies of software development, I'm constantly seeking new challenges and opportunities to expand my skills.
+<p align="left">Hey there! I'm a beginner coder with a passion for learning more about coding and web development. I've been working with C, Python, and Java, and I have a foundational knowledge of HTML, CSS, and JavaScript. I'm focused on honing my skills and expanding my knowledge in both coding and design.
 
 
-- 📚: Currently studying at **University of Science and Technology**
-- 💻: Learning **Python, C, HTML and CSS**
-- 🎮: Plays **Dota 2, Minecraft, and Mobile Legends**
-- 📺: Avid **Anime Enjoyer (esp. Romance)**
+- 📚: Currently studying at **University of Science and Technology of Southern Philippines**
+- 🎮: Plays **Dota 2, Minecraft, Terraria, Valorant, and Mobile Games**
+- 📺: Watches **Anime, C-drama and K-drama**
 - 📘: Reads **Manga and Manhwa**
 
 <img align="left" alt="Coding" width="410" src="https://github.com/davenarchives/DavenArchives/assets/160004612/bd3c0465-0c27-434a-ba1f-f2bd4f702b3a">
 
-<h3 align="left">Experiences:</h3>
+<h3 align="left">Skills and Experiences:</h3>
 
-- 👾: Former **Roblox Script User and Exploiter**
-- 🐱‍💻: Former **Lucky Patcher and Cheat Engine** Hacker
-- 🐱‍👤: Made **Roblox Phishing Game**
+- 📡: I was a **technical operator during a broadcasting competition at my school.**
+- 💻: Learning **C, Python, Java, JS, HTML and CSS**
 - ♨️: Experienced **Command User** in Minecraft
-- 🌱: Planted **Keylogger** in Computer Shops
 
 <h3 align="left">Connect with me:</h3>
   <a href="https://www.facebook.com/Self.64/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
