@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gerald Llorente (Sralud)</h1>
 <h3 align="center"> A Novice Coder</h3>
-<img align="right" alt="Coding" width="325" src="https://github.com/davenarchives/DavenArchives/assets/160004612/836096b0-7b69-454c-9aa2-9df80f2b7332">
+<img align="right" alt="Coding" width="325" src="https://github.com/Sralud">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sralud&label=Profile%20views&color=0e75b6&style=flat" alt="Sralud" /> </p>
 
