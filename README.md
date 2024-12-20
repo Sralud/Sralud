@@ -13,7 +13,7 @@
 - 📺: Watches **Anime, C-drama and K-drama**
 - 📘: Reads **Manga and Manhwa**
 
-<img align="left" alt="Coding" width="410" src="https://github.com/davenarchives/DavenArchives/assets/160004612/bd3c0465-0c27-434a-ba1f-f2bd4f702b3a">
+<img align="left" alt="Coding" width="410" src="https://github.com/user-attachments/assets/9eaea6b2-abad-46ea-b26e-9289b620eb5e">
 
 <h3 align="left">Skills and Experiences:</h3>
 
