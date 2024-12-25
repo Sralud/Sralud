@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sralud&label=Profile%20views&color=0e75b6&style=flat" alt="Sralud" /> </p>
 
 <h3 align="left">Introduction</h3>
-<p align="left">Hey there! I'm a beginner coder with a passion for learning more about coding and web development. I've been working with C, Python, and Java, and I have a foundational knowledge of HTML, CSS, and JavaScript. I'm focused on honing my skills and expanding my knowledge in both coding and design.
+<p align="left">Hello, World! 👋 I'm a beginner coder with a passion for learning more about coding and web development. I've been working with C, Python, and Java, and I have a foundational knowledge of HTML, CSS, and JavaScript. I'm focused on honing my skills and expanding my knowledge in both coding and design to create projects that are not only functional but also visually appealing. Let's build something amazing together! 🌟
 
 
 - 📚: Currently studying at **University of Science and Technology of Southern Philippines**
