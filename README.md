@@ -34,3 +34,7 @@
 <div align="center">
     <img height="295px" src="https://github-readme-stats.vercel.app/api/top-langs?username=davenarchives&show_icons=true&locale=en&layout=compact" alt="davenarchives"/>
 </div>
+
+<div align="center">
+    <img height="210px" src="https://github-readme-streak-stats.herokuapp.com/?user=Sralud&" alt="Sralud"/>
+</div>
