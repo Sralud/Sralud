@@ -25,7 +25,7 @@
   <a href="https://www.facebook.com/Self.64/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
   <a href="https://discord.gg/74jFFFgjNT" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
   <a href="https://www.instagram.com/ashuwashuwagenudo/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-  <a href="https://www.tiktok.com/@dazzi32" target="_blank"><img align="center" src="https://github.com/davenarchives/DavenArchives/assets/160004612/a908fa6f-e63b-4b18-b6d0-c1e54c54661f" alt="Tiktok" height="30" width="30" /></a>
+  <a href="https://www.tiktok.com/@r0ld64" target="_blank"><img align="center" src="https://github.com/davenarchives/DavenArchives/assets/160004612/a908fa6f-e63b-4b18-b6d0-c1e54c54661f" alt="Tiktok" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
