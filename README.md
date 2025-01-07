@@ -27,7 +27,7 @@
   <a href="https://www.instagram.com/ashuwashuwagenudo/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
   <a href="https://www.tiktok.com/@r0ld64" target="_blank"><img align="center" src="https://github.com/davenarchives/DavenArchives/assets/160004612/a908fa6f-e63b-4b18-b6d0-c1e54c54661f" alt="Tiktok" height="30" width="30" /></a>
   <a href="mailto:llorente.gerald2@gmail.com" target="_blank">
-  <img align="center" src="https://github.com/user-attachments/assets/21cc4f46-0888-4bab-a064-bf0c69915819" alt="Email" height="30" width="40" /></a>
+  <img align="center" src="https://github.com/user-attachments/assets/21cc4f46-0888-4bab-a064-bf0c69915819" alt="Email" height="30" width="30" /></a>
 
 </p>
 
