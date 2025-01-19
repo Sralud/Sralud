@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gerald Llorente (Sralud)</h1>
+1<h1 align="center">Hi 👋, I'm Gerald Llorente (Sralud)</h1>
 <h3 align="center"> A Novice Coder</h3>
 <img align="right" alt="Coding" width="325" src="https://github.com/user-attachments/assets/bd40e4e6-9a35-4447-b41d-7063ec7e7ccb">
 
