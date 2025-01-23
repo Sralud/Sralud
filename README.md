@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="325" src="https://github.com/user-attachments/assets/bd40e4e6-9a35-4447-b41d-7063ec7e7ccb">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sralud&label=Profile%20views&color=0e75b6&style=flat" alt="Sralud" /> </p>
-sd
+
 <h3 align="left">Introduction</h3>
 <p align="left">Hello, World! 👋 I'm a beginner coder with a passion for learning more about coding and web development. I've been working with C, Python, and Java, and I have a foundational knowledge of HTML, CSS, and JavaScript. I'm focused on honing my skills and expanding my knowledge in both coding and design to create projects that are not only functional but also visually appealing. Let's build something amazing together! 🌟
 
