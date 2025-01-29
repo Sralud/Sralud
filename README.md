@@ -17,9 +17,9 @@
 
 <h3 align="left">Skills and Experiences:</h3>
 
-- 📡: I was a **technical operator during a broadcasting competition at my school.**
-- 💻: Learning **C, Python, Java, JS, HTML and CSS**
-- ♨️: Experienced **Command User** in Minecraft
+  - 📡: I was a **technical operator during a broadcasting competition at my school.**
+  - 💻: Learning **C, Python, Java, JS, HTML and CSS**
+  - ♨️: Experienced **Command User** in Minecraft
 
 <h3 align="left">Connect with me:</h3>
   <a href="https://www.facebook.com/Self.64/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
