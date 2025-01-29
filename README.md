@@ -13,7 +13,7 @@
 - 📺: Watches **Anime, C-drama and K-drama**
 - 📘: Reads **Manga and Manhwa**
 
-<img align="left" alt="Coding" width="410" src="https://github.com/user-attachments/assets/9eaea6b2-abad-46ea-b26e-9289b620eb5e">
+<img align="left" alt="Coding" width="400" src="https://github.com/user-attachments/assets/9eaea6b2-abad-46ea-b26e-9289b620eb5e">
 
 <h3 align="left">Skills and Experiences:</h3>
 
